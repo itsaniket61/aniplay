@@ -1,6 +1,6 @@
 {
-    "name": "aartis",
-    "short_name": "aartis",
+    "name": "Ani Play",
+    "short_name": "AniPlay",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
